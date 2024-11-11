@@ -31,10 +31,7 @@ Projeto de um sistema de matrículas distribuído para a disciplina de Desenvolv
 5. Para logar, inserir as credenciais que estão no arquivo yml
 
 ### Matriculason-API
-1. Clone o repositório para sua máquina
-2. Abra um terminal e navegue até o repositório
-3. Para rodar o projeto, execute o comando: ```./mvnw spring-boot:run```
-4. Utilizando o Postman, fazer requisições para os endpoints implementados
+1. Em desenvolvimento...
 
 ### EmailService
 1. Em desenvolvimento...
