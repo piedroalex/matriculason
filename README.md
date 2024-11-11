@@ -21,7 +21,7 @@ Projeto de um sistema de matrículas distribuído para a disciplina de Desenvolv
 2. Abra um terminal e navegue até o repositório
 3. Para rodar o arquivo, execute o comando: ```docker-compose up -d --build```
    
-## Como rodar as aplicações (Separadamente)
+## Como rodar as aplicações (Separadamente e na ordem)
 
 ### RabbitMQ
 1. Clone o repositório para sua máquina
